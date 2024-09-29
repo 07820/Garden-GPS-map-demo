@@ -1,1 +1,2 @@
 # Garden-GPS-map-demo
+This software is a location-based plant information display application. Users can view detailed information about different plants, including their names, families, species, and planting locations. The software calculates and displays the distance between the user's current location and the plant beds, and marks the plant locations on the map. Users can also view related plant images. The software supports scrolling through multiple images and displays basic plant information in a table format.
